@@ -26,7 +26,7 @@ Problems - there's a [Theming Help on r/iOSthemes](http://www.reddit.com/r/iOSth
 
 Bugs - create a [new issue](https://github.com/andreaslarsen/habesha/issues/new)
 
-Requests - comming soon...
+Requests - comming soon..., you can find the artwork needed [here](http://bendodson.com/projects/itunes-artwork-finder/?entity=software&show=habesha&country=us)
 
 
 #License
