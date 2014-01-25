@@ -24,7 +24,7 @@ Installation - Manual installation for now.
 
 Problems - there's a [Theming Help on r/iOSthemes](http://www.reddit.com/r/iOSthemes/)
 
-Bugs - create a [new issue](https://github.com/andreaslarsen/habesha/issues/new)
+Bugs/suggestions - create a [new issue](https://github.com/andreaslarsen/habesha/issues/new)
 
 Requests - comming soon..., you can find the artwork needed [here](http://bendodson.com/projects/itunes-artwork-finder/?entity=software&show=habesha&country=us)
 
