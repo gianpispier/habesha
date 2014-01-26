@@ -2,8 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-
-<key>CalendarIconDateStyle</key><string>font-size: 34; color: #000000; margin-top:4; position: absolute; </string>
-<key>CalendarIconDayStyle</key><string>color: #ff2d55; padding-right: -1; margin-top:4; font-size: 8;</string>
+    <key>CalendarIconDateStyle</key>
+    <string>color: transparent</string>
+    <key>CalendarIconDayStyle</key> 
+    <string>color: transparent</string>
 </dict>
 </plist>
