@@ -21,14 +21,20 @@ iOS 7 theme for all iPhones + Ipads
 [Zip](https://github.com/andreaslarsen/habesha/archive/master.zip)
 
 
-#FAQ
-Installation - Manual installation for now. 
+#Tutorials
+[Youtube](https://www.youtube.com/watch?v=Xu9YZSiugzg&list=PLu10KOqPpseQVdqkfgSX2C8liWPSGG0bb)
+
+
+#Installation
+Manual installation for now. 
 
 Problems - there's a [Theming Help on r/iOSthemes](http://www.reddit.com/r/iOSthemes/)
 
-Bugs/suggestions - create a [new issue](https://github.com/andreaslarsen/habesha/issues/new)
+#Bugs/suggestions
+Use [issues](https://github.com/andreaslarsen/habesha/issues/)
 
-Requests - comming soon..., you can find the artwork needed [here](http://bendodson.com/projects/itunes-artwork-finder/?entity=software&show=habesha&country=us)
+#Requests - comming soon
+you can find the artwork needed [here](http://bendodson.com/projects/itunes-artwork-finder/?entity=software&show=habesha&country=us)
 
 
 #License
