@@ -6,9 +6,11 @@ iOS 7 theme for all iPhones + Ipads
 
 # Contributors
 
-[Andreas Larsen](http://www.andreaslarsen.dk) - theme creator
+[Andreas Larsen](http://www.andreaslarsen.dk) - Theme creator
 
 [ImLemonPartying](http://www.reddit.com/user/ImLemonPartying) - Alkaline No Empty Bars mod
+
+[gianpispier](https://github.com/gianpispier) - Icons
 
 
 # Screenshots
