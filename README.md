@@ -14,8 +14,10 @@ iOS 7 theme for all iPhones + Ipads
 #Download
 [Zip](https://github.com/andreaslarsen/habesha/archive/master.zip)
 
-#Tutorials
-[Youtube](https://www.youtube.com/watch?v=Xu9YZSiugzg&list=PLu10KOqPpseQVdqkfgSX2C8liWPSGG0bb)
+#Icon creations
+[Youtube tutorials](https://www.youtube.com/watch?v=Xu9YZSiugzg&list=PLu10KOqPpseQVdqkfgSX2C8liWPSGG0bb)
+
+[Resources](https://github.com/andreaslarsen/habesha-resources) - psd, actions, colors
 
 #Installation
 Manual installation for now. 
