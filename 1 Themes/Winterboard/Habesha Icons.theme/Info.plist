@@ -5,6 +5,6 @@
     <key>CalendarIconDateStyle</key>
     <string>opacity:0</string>
     <key>CalendarIconDayStyle</key> 
-    <string>opacity:0</string>
+    <string>color:#000</string>
 </dict>
 </plist>
