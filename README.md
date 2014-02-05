@@ -6,7 +6,7 @@ iOS 7 theme for all iPhones + Ipads
 
 [ImLemonPartying](http://www.reddit.com/user/ImLemonPartying) - Alkaline No Empty Bars mod
 
-[gianpispier](https://github.com/gianpispier) - Icons
+[gianpispier](https://github.com/gianpispier) - Some icons
 
 # Screenshots
 [Imgur](http://imgur.com/a/7uDxB)
@@ -14,7 +14,7 @@ iOS 7 theme for all iPhones + Ipads
 #Download
 [Zip](https://github.com/andreaslarsen/habesha/archive/master.zip)
 
-#Icon creations
+#Icon creation
 [Youtube tutorials](https://www.youtube.com/watch?v=Xu9YZSiugzg&list=PLu10KOqPpseQVdqkfgSX2C8liWPSGG0bb)
 
 [Resources](https://github.com/andreaslarsen/habesha-resources) - psd, actions, colors
