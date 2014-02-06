@@ -29,8 +29,14 @@ Problems - there's a [Theming Help on r/iOSthemes](http://www.reddit.com/r/iOSth
 #Bugs/suggestions
 Use [issues](https://github.com/andreaslarsen/habesha/issues/)
 
-#Requests - comming soon
-you can find the artwork needed [here](http://bendodson.com/projects/itunes-artwork-finder/?entity=software&show=habesha&country=us)
+#Requests
+Find the artwork and create a new issue - [example](https://github.com/andreaslarsen/habesha/issues/5)
+
+I or someone else make the icons and upload them with generic names.
+
+You can then rename the folders + icons (don't delete unused icon sizes). Use [AppInfo](http://cydia.saurik.com/package/com.mileskabal.appinfo/), [Icon Thief](http://cydia.saurik.com/package/com.troywagner.iconthief/), or other to get the bundleID + icon names.
+
+And send the updated folder with correct names back to me so it can be included in the theme for everyone to enjoy:)
 
 #License
 CC-BY-NC-SA see license file and contact me if you have any questions :)
