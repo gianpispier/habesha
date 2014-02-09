@@ -36,5 +36,8 @@ Use [issues](https://github.com/andreaslarsen/habesha/issues/)
 
 [gianpispier](https://github.com/gianpispier) - Icons
 
+#Donate
+[Support](http://andreaslarsen.dk/depictions/donate) me and this theme, thanks!
+
 #License
 CC-BY-NC-SA see license file and contact me if you have any questions :)
