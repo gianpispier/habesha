@@ -15,6 +15,11 @@ iOS 7 theme for all iPhones + Ipads
 
 [Resources](https://github.com/andreaslarsen/habesha-resources) - psd, actions, colors
 
+**Rules**
+* Only use the supplied colors
+* White on color or color on white only (ie not color on color)
+* Stay within the size template for the glyph
+
 ###Icon Requests
 Find the artwork and create a new issue - [example](https://github.com/andreaslarsen/habesha/issues/5)
 
